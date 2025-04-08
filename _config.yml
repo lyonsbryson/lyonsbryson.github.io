@@ -22,7 +22,7 @@ repository               : "lyonsbryson/lyonsbryson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "C:\Users\Bryson\Downloads\PhD-Headshot.jpg"
   name             : "Bryson Lyons"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
