@@ -23,9 +23,9 @@ repository               : "lyonsbryson/lyonsbryson.github.io"
 author:
   # Biographic information
   avatar           : "PhD-Headshot.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Bryson Lyons"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Political Science Ph.D. Student"
   location         : "Tallahassee, Florida"
   employer         : "Florida State University"
   uri              : # URL
