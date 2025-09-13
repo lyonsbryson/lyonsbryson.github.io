@@ -1,11 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Non-Political Anger and Affective Polarization in the United States"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Our findings suggest that anger is a key contributor to increased affective polarization and that reducing anger 
+in society may slow the rapid rise of affective polarization.'
+date: 2025-03-08
+venue: 'MPSA'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
