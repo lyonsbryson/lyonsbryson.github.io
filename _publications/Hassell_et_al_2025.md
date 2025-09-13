@@ -8,6 +8,8 @@ in society may slow the rapid rise of affective polarization.'
 date: 2025-03-08
 venue: 'MPSA'
 paperurl: 'https://lyonsbryson.github.io/files/Hassell_et_al._Midwest_2025.pdf'
+citation: 'Hassell et al. 2025. &quot;Non-Political Anger and Affective Polarization in the United States.&quot; <i>Paper prepared for presentation at the Midwest Political Science Association 
+  Annual Conference, Chicago, IL, March 8.</i>.'
 ---
 Increased in-group affinity and outgroup hostility between Democrats and Republicans, or 
 affective polarization, has been highlighted as a major problem in the current political 
