@@ -1,7 +1,7 @@
 ---
 title: "Non-Political Anger and Affective Polarization in the United States"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Our findings suggest that anger is a key contributor to increased affective polarization and that reducing anger 
 in society may slow the rapid rise of affective polarization.'
