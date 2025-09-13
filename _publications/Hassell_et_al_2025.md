@@ -7,7 +7,7 @@ excerpt: 'Our findings suggest that anger is a key contributor to increased affe
 in society may slow the rapid rise of affective polarization.'
 date: 2025-03-08
 venue: 'MPSA'
-paperurl: 'files/Hassell_et_al._Midwest_2025.pdf'
+paperurl: '[files/Hassell_et_al._Midwest_2025.pdf](https://github.com/lyonsbryson/lyonsbryson.github.io/blob/d9d000f8cea286652184a2bcfa9a35d8de7e2c89/files/Hassell_et_al._Midwest_2025.pdf)'
 ---
 Increased in-group affinity and outgroup hostility between Democrats and Republicans, or 
 affective polarization, has been highlighted as a major problem in the current political 
