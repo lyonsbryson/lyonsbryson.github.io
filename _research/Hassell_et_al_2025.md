@@ -2,7 +2,7 @@
 title: "Non-Political Anger and Affective Polarization in the United States"
 collection: publications
 category: conferences
-permalink: /publication/Hassell_et_al._Midwest_2025
+permalink: /research/Hassell_et_al._Midwest_2025
 excerpt: 'Our findings suggest that anger from any source is a key contributor to increased affective polarization and that reducing anger 
 in society may slow the rapid rise of affective polarization.'
 date: 2025-03-08
