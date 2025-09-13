@@ -9,4 +9,16 @@ date: 2025-03-08
 venue: 'MPSA'
 paperurl: 'files/Hassell_et_al._Midwest_2025.pdf'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Increased in-group affinity and outgroup hostility between Democrats and Republicans, or 
+affective polarization, has been highlighted as a major problem in the current political 
+environment. Recent literature suggests that political anger drives increased affective 
+polarization and scholars have even found that political anger may influence social polarization 
+in non-political settings. Our research seeks to build upon this existing literature by proposing 
+that anger elicited from an apolitical source can also lead to increased affective polarization. To 
+test our hypotheses, we conducted two survey experiments that measured the effects of anger 
+elicited from political and apolitical sources and its effects on affective polarization. We found 
+that anger elicited from both political and apolitical settings leads to greater affective 
+polarization. In short, anger prompts greater in-group affinity and outgroup hostility in politics 
+regardless of whether the anger originates in politics. Our findings are important because they 
+suggest that anger is a key contributor to increased affective polarization and that reducing anger 
+in society may slow the rapid rise of affective polarization. 
