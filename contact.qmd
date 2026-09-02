@@ -8,17 +8,9 @@ title-block-banner: false
 
 **Quarto Academic**
 
-School
+Florida State University
 
-College
-
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
+bl24g@fsu.edu
 
 
 </center>
