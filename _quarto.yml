@@ -5,13 +5,13 @@ project:
     - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
     
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+description-meta: "Bryson Lyons — Political Science PhD student at Florida State University"
 author-meta: "Dr. Gang He"
 
 website:
   title: "Bryson Lyons"
   image: "files/images/PhD-Headshot.jpg"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Political Science PhD student at Florida State University"
  
   navbar:
     background: light  # You can change the background color here
@@ -50,7 +50,7 @@ website:
       - text: CV
         href: files/nsf-biosketch.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/lyonsbryson
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
@@ -62,11 +62,11 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Bryson Lyons](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Bryson Lyons](https://lyonsbryson.github.io/) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/lyonsbryson
         target: _blank
       - text: "{{< fa brands bluesky >}}" 
         href: https://bsky.app
@@ -83,7 +83,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/lyonsbryson/lyonsbryson.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -91,7 +91,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://lyonsbryson.github.io/"
   
   #google-analytics:
    # tracking-id: ""  # Please delete or replace with your own tracking ID
