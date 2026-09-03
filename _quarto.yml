@@ -1,12 +1,12 @@
 project:
   type: website
   output-dir: docs
-  pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
-    - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
+  #pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
+   # - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
     
 # Meta
 description-meta: "Bryson Lyons — Political Science PhD student at Florida State University"
-author-meta: "Dr. Gang He"
+author-meta: "Bryson Lyons"
 
 website:
   title: "Bryson Lyons"
@@ -29,8 +29,8 @@ website:
             href: contact.qmd             
       - text: Research
         menu:
-          - text: Publications Listing  # Automatically generated from publications.xlsx
-            href: pub-listing.qmd
+          #- text: Publications Listing  # Automatically generated from publications.xlsx
+           # href: pub-listing.qmd
           - text: Publications  # Manually curated list of publications
             href: publications.qmd            
           - text: Selected Papers
@@ -112,6 +112,6 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    link-external-filter: '^(?:http:|https:)\/\/lyonsbryson\.github\.io'
     include-in-header: "files/includes/_academic.qmd"
 
