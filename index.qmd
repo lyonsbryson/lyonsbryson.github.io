@@ -32,7 +32,7 @@ about:
     #  href: https://www.youtube.com     
      # target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      href: https://orcid.org/0009-0003-8667-4902
       target: _blank
    # - text: "{{< ai clarivate >}} Web of Science"
    #   href: https://www.webofscience.com  
